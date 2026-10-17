@@ -1,0 +1,8 @@
+{
+  "name": "Remix CloneConnect",
+  "description": "A professional service to replicate and deploy fully functional, high-performance web platforms based on your specific requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
